@@ -1,2 +1,3 @@
-# Kael
-A Server managing discord application! Built purely on Javascript
+# Arul Nova
+A Portfolio Website in the building!
+🎒 Undergraduate 🌏 India 🪐 Astrophile

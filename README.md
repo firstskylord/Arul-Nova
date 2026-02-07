@@ -8,7 +8,8 @@ I'm **Arul Nova**, a developer who believes that great code isn't just about mak
 
 ## 🛠 Tech Arsenal
 
-const arul = { </br>
+```javascript
+const Arul = { </br>
   languages: ["HTML", "CSS", "JavaScript", "Python"], </br>
   frameworks: ["React.js"], </br>
   databases: ["MongoDB"], </br>
@@ -16,6 +17,7 @@ const arul = { </br>
   superpower: "Learning new tech faster", </br>
   status: "Open for freelancing 🚀" </br>
 };
+```
 
 ## 🎯 Featured Project
 

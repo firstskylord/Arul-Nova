@@ -8,13 +8,13 @@ I'm **Arul Nova**, a developer who believes that great code isn't just about mak
 
 ## 🛠 Tech Arsenal
 
-const arul = {
+const arul = { </br>
   languages: ["HTML", "CSS", "JavaScript", "Python"], </br>
   frameworks: ["React.js"], </br>
   databases: ["MongoDB"], </br>
   current_vibe: "Building sleek, dark-themed experiences", </br>
   superpower: "Learning new tech faster", </br>
-  status: "Open for freelancing 🚀"
+  status: "Open for freelancing 🚀" </br>
 };
 
 ## 🎯 Featured Project

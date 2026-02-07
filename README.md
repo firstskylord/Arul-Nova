@@ -1,4 +1,4 @@
-# Arul Nova - Portfolio
+# Arul Nova
 
 🌏 Based in India | 🏎 Quick Learner | 🌙 Dark Mode Enthusiast | 🏫 Undergraduate
 

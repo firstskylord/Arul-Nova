@@ -9,11 +9,11 @@ I'm **Arul Nova**, a developer who believes that great code isn't just about mak
 ## 🛠 Tech Arsenal
 
 const arul = {
-  languages: ["HTML", "CSS", "JavaScript", "Python"],
-  frameworks: ["React.js"],
-  databases: ["MongoDB"],
-  current_vibe: "Building sleek, dark-themed experiences",
-  superpower: "Learning new tech faster",
+  languages: ["HTML", "CSS", "JavaScript", "Python"], </br>
+  frameworks: ["React.js"], </br>
+  databases: ["MongoDB"], </br>
+  current_vibe: "Building sleek, dark-themed experiences", </br>
+  superpower: "Learning new tech faster", </br>
   status: "Open for freelancing 🚀"
 };
 
@@ -23,7 +23,7 @@ const arul = {
 
 ## 💼 Let's Work Together!
 
-I'm currently **available for freelancing opportunities**. If you're looking for someone who combines technical expertise with creative problem-solving, obsesses over clean code, and delivers projects that don't just meet expectations but exceed them—let's talk.
+I'm currently **available for freelancing opportunities**. If you're looking for someone who combines technical expertise with creative problem-solving, obsesses over clean code, and delivers projects that don't just meet expectations but exceed them — let's talk.
 
 **What I Bring:**
 - Lightning-fast learning curve (seriously, try me)
@@ -33,6 +33,6 @@ I'm currently **available for freelancing opportunities**. If you're looking for
 
 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
-**Built with ⚡ Arul Nova**
+**Built by ⚡ Arul Nova**
 
 </div>
